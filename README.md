@@ -21,13 +21,13 @@ We use this as a starter template to quickly develop static HTML pages with :
 
    ```bash
    # Using npm
-   npm run serve
+   npm run watch
 
    # Using Yarn
-   yarn serve
+   yarn run watch
    ```
 
-   Now you should be able to see the project running at localhost:8080.
+   Now run the project in your server
 
 3. Open `public/index.html` in your editor and start experimenting!
 
