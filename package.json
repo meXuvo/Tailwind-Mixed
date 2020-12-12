@@ -8,7 +8,9 @@
     "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
   },
   "dependencies": {
-    "autoprefixer": "^9.8.6"
+    "autoprefixer": "^9.8.6",
+    "postcss": "^7.0.35",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "2.3.0",
@@ -17,7 +19,6 @@
     "laravel-mix": "^5.0.5",
     "laravel-mix-postcss-config": "^1.0.4",
     "postcss-cli": "^7.1.2",
-    "postcss-nested": "^4.2.3",
-    "tailwindcss": "^1.8.5"
+    "postcss-nested": "^4.2.3"
   }
 }
