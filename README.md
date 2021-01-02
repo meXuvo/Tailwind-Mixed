@@ -45,4 +45,4 @@ yarn prod
 ```
 
 ## Credits
-Made by [meXuvo](https://linkedin.com/in/meXuvo)
+Made by [meXuvo](http://mexuvo.com/)
